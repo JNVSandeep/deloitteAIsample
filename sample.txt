@@ -26,3 +26,5 @@ i++, i=i+1; 2 units, 4 times
 i == 5, 1 unit, 6 times
 
 T(n) = O(n)
+
+git clone https://github.com/JNVSandeep/deloitteAIsample.git
