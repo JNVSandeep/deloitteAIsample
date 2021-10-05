@@ -1,3 +1,4 @@
+-----------------
 git clone - it is for cloning the repository
 git add    - it is to add the files in to local repository
 git commit - it is about to saving the files in to local repository
