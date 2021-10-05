@@ -32,5 +32,5 @@ T(n) = O(n)
 git clone https://github.com/JNVSandeep/deloitteAIsample.git
 
 -- adding the PAT token
-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
+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
 
