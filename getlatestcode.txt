@@ -1,0 +1,1 @@
+git pull - it is used to pull the latest code form the server repository to local repository

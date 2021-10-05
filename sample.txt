@@ -30,3 +30,7 @@ T(n) = O(n)
 
 -- modified by sandeep
 git clone https://github.com/JNVSandeep/deloitteAIsample.git
+
+-- adding the PAT token
+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
+
