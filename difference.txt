@@ -1,0 +1,8 @@
+git clone - it is for cloning the repository
+git add    - it is to add the files in to local repository
+git commit - it is about to saving the files in to local repository
+git push    - transfering the files in to server repository
+git status - to track the changes
+git pull origin master - to get the latest code from server repository
+git reset - to remove the unwanted files 
+
